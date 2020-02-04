@@ -1,0 +1,11 @@
+h1{
+    color: black;
+}
+*{
+    border:solid
+}
+.footer{
+    background-color:burlywood;
+    display: flex;
+    justify-content: space-between;
+}
